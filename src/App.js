@@ -6,7 +6,7 @@ import {
   Switch,
 } from "react-router-dom";
 import "./App.css";
-import Jesus from "./9-15-20/jesus";
+import Jesus from "./9-15-20/Jesus";
 import Peter from "./9-15-20/Peter";
 import John from "./9-15-20/John";
 import James from "./9-15-20/James";
